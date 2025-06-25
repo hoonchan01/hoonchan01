@@ -26,7 +26,7 @@ I aspire to become a **Technical Sales Engineer** in Japan, connecting innovativ
 
 ## 📫 Contact Me
 - 📧 Email: kangtaehoon3@example.com  
-- 📷 Instagram: [instagram.com/in/002046.0](https://linkedin.com/in/002046.0)  
+- 📷 Instagram: [instagram.com/in/002046.0](https://instagram.com/002046.0)  
 - 📝 notion / Portfolio: [Notion link or PDF]([https://notion.so/yourresume](https://www.notion.so/1b3d634f60df80f48863ebbf879b8d9e?v=1bad634f60df80e1bd46000c6b378006))  
 
 ---
