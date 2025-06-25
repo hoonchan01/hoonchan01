@@ -9,7 +9,7 @@
 📍 HUFS 🇰🇷 (2021~) | Kindai University 🇯🇵 (2025 Exchange)
 
 💻 Passionate about **Web Development** & **AI**  
-🎯 Currently learning: **Full-Stack Development, Cloud, Python AI Projects**
+🎯 Currently learning: **Full-Stack Development, Cloud, Python AI, various cs knowledge**
 
 
 </div>
