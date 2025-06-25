@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+hoonchan01's+GitHub!;Currently+Learning+AI+and+Fullstack;&color=8e44ad&center=true&vCenter=true&size=28&width=1000)](https://git.io/typing-svg)
 
 # 👋 Hello! I'm Taehoon Kang — Bridging Technology and People
-
+ 
 I'm passionate about technology — but even more passionate about helping people understand and benefit from it.  
 I aspire to become a **Technical Sales Engineer** in Japan, connecting innovative solutions with real-world customer needs.
 
