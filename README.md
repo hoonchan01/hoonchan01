@@ -1,6 +1,6 @@
 <!-- 상단 동적 소개 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=🇰🇷+정보통신공학+전공생;🇯🇵+일본에서+보안전문가+되기+도전+중;🌱+웹+%7C+파이썬+%7C+C+%7C+Bash+%7C+보안+공부+시작했습니다!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=정보보안+기록장;">
 </p>
 
 ---
