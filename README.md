@@ -1,83 +1,68 @@
-<!-- 상단 동적 소개 -->
+<h1 align="center">👨‍💻 Taehun Kang | Aspiring Information Security Specialist</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=정보보안+기록장;">
+  💡 Learning by doing | 🚨 SOC-focused | 🐧 Linux Enthusiast | 🛠️ Python Practitioner  
 </p>
 
 ---
 
-<h3 align="center" style="color:#00ff00">🌐 Hi there! I'm <span style="color:#00ff00">a Security Beginner</span> aiming for 🇯🇵Japan Cybersecurity Field</h3>
+## 🚀 About Me
+안녕하세요, 정보보안 분야에서 성장 중인 강태훈입니다.  
+무료 플랫폼을 적극 활용해 실무 기반의 보안 역량을 키우며, 학습과 실습 과정을 GitHub에 체계적으로 기록하고 있습니다.  
 
----
-### 프로필(profile)
+** 경력: **
+- 카이스트 사이버영재교육(2016)
+- 마포고 steam동아리(코딩)(2018-2019)
+- 한국외국어대 정보통신공학과 입학(2021)
+- 5포병여단 정보작전과 무선병(2021-2023)
+- 오사카 킨키대학 교환학생(2025)
 
-- 한국외국어대학교 정보통신공학과(2021~)
-- 5포병여단 무선장비운용병(2021-2023)
-- 한국외국어대학교 코딩존 조교(2024)
-- 일본 킨키대학 교환학생(2025)
-
-### 🎯 목표 (Goals)
-
-- 🇯🇵 일본 보안회사에서 SOC Analyst 또는 Blue Team 인턴 → 정규직 도전
-- 🧠 시스템/네트워크/보안 기초를 튼튼히 쌓는 것부터 시작
-- 📗 보안 관련 자격증(CompTIA Security+, Linux LPIC 등) 준비 예정
-
----
-
-### 📚 현재 배우는 것 (Learning)
-
-```bash
-💻 Programming:    C | Python | Bash
-🌍 Web:            HTML, CSS, JavaScript (기초 중)
-🔐 Security:       Linux 기본 | tcpdump | Wireshark
-🧠 CS 기초:        OS / Network / HTTP 흐름 / TCP/IP
-```
+*현재 집중 중인 분야:**
+- SOC 운영 및 로그 분석
+- Linux 기반 시스템 이해 및 스크립팅
+- SIEM 도구를 활용한 이벤트 모니터링
+- 자동화 스크립트 및 Python 활용
 
 ---
 
-### 🛠️ Tools & Environment
+## 🧪 Hands-On Experience
+- **TryHackMe**  
+  - OWASP Top 10, Blue, Bounty Hacker 등 다양한 실습 완료  
+  - 실습 내용 정리 및 공격 시나리오 분석  
 
-- OS: Ubuntu, Windows, Kali Linux (가상머신 실습)
-- 에디터: VSCode, Vim
-- 실습: VirtualBox, TryHackMe, Bandit
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00&bg_color=000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&title_color=00ff00&text_color=00ff00&bg_color=000000" />
-</div>
+> 실습 기록은 아래 저장소에서 확인하실 수 있습니다.  
+> 🔗 [My Labs and Writeups](https://github.com/yourusername/labs-writeups)
 
 ---
 
-### 🌱 앞으로의 학습 로드맵 (My Roadmap)
-
-- [ ] 리눅스 기본기 완성 (파일시스템, 사용자 관리, 서비스 제어)
-- [ ] 네트워크 구조 학습 (TCP/IP, 포트, DNS, 패킷 분석 등)
-- [ ] Python으로 보안 자동화 간단한 스크립트 만들기
-- [ ] TryHackMe 및 CTF 기본 도전
-- [ ] 일본어 기술 커뮤니케이션 능력 향상 (IT面接対策)
+## 🛠️ Tools I Use
+- SIEM: Wazuh, Splunk (기초 학습 중)
+- Note-taking: Notion, GoodNotes
+- Scripting: Python, Bash,C
+- Learning aids: Anki, GitHub Projects
 
 ---
 
-### 🔗 활동 링크 (Links)
-
-- instagram: [https://instagram.com](https://instagram.com/002046.0)
-- TryHackMe: [https://tryhackme.com/p/](https://tryhackme.com/p/)
-- Zenn.dev: (일본 기술 블로그)
-- notion: [@yourhandle]([https://twitter.com/yourhandle](https://www.notion.so/IT-1b3d634f60df80f48863ebbf879b8d9e))
-
----
-
-> ❝まだまだ未熟ですが、毎日一歩ずつ成長していきます。日本のセキュリティ分野で働くという夢を実現するために努力中です！❞  
-> — 学生・情報通信工学専攻・SOCエンジニア志望 🇯🇵
+## 📁 Notable Repositories
+| 이름 | 설명 |
+|------|------|
+| `lab-writeups` | 실습 플랫폼에서 수행한 문제 풀이 및 정리 문서 |
+| `linux-commands` | 유용한 Linux 명령어 및 실습 스크립트 모음 |
+| `python-tools` | 로그 분석 및 자동화용 Python 스크립트 모음 |
+| `infosec-notes` | 개념 정리 및 학습 리포트 Markdown 문서 저장소 |
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer"/>
-</div>
+## 📚 My Goals
+- 정보보안 실무 감각을 키우기 위한 지속적 실습
+- GitHub를 통한 학습 기록 및 커뮤니티 공유
+- 오픈소스 보안 툴 기여 또는 분석 프로젝트 시작
+- 일본 기업의 blue team으로 취업
+---
+
+## ✨ Connect
+- 📬 Email: `kangtaehoon3@example.com`
+- 📝 Blog (준비 중): [GitHub Pages](https://hoonchan01.github.io)
 
 
 
