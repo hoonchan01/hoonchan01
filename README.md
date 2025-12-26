@@ -1,12 +1,12 @@
 ## 👨‍💻 To be Security Engineer
 
 ### 🎓
-- 🇰🇷HUFS(2021-)
+- 🇰🇷Engineering of Information Communication in HUFS
 - 🇯🇵kindai univ(2025)
 
 ### 💡 Stack
 - **Languages**: Python, C, Bash, HTML/CSS/JavaScript, C++
-- **Tools**: Git, VirtualBox, Tryhackme, Docker, Kali Linux(nmap,wireshark..)
+- **Tools**: firebase, Git, VirtualBox, Tryhackme, Docker, Kali Linux(nmap,wireshark..)
 - **Skills**: Web Security, Network security
 
 ### 🔧 Interest Tech
