@@ -1,4 +1,4 @@
-## 👨‍💻 To be Security Engineer
+## 👨‍💻 The Diary of an Information and Communication Technology Student
 
 ### 🎓
 - 🇰🇷Engineering of Information Communication in HUFS(2021~)
