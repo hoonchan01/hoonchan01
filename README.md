@@ -7,7 +7,7 @@
 ### 💡 Stack
 - **Languages**: Python, C, Bash, HTML/CSS/JavaScript
 - **Tools**: firebase, Git, VirtualBox, Tryhackme, Docker, Kali Linux(nmap,wireshark..)
-- **Skills**: Web Security, Network security
+- **Skills**: Web, Network
 - **Certificate**: AWS Certified Cloud Practitioner
 
 ### 🔧 Interest Tech
