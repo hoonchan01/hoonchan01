@@ -1,12 +1,13 @@
 ## 👨‍💻 The Diary of an Information and Communication Technology Student
 
 ### 🎓
-- 🇰🇷Engineering of Information Communication in HUFS(2021~)
+- 🇰🇷Engineering of Information Communication in HUFS(2021~2027)
 - 🇯🇵kindai univ(2025)
+- 🇯🇵Data Scientist in Osaka(2027~)
 
 ### 💡 Stack
-- **Languages**: Python, C, Bash, HTML/CSS/JavaScript
-- **Tools**: firebase, Git, VirtualBox, Tryhackme, Docker, Kali Linux(nmap,wireshark..)
+- **Languages**: Python, C, Bash, Golang
+- **Tools**: firebase, Git, VirtualBox, Tryhackme, Docker, Kubernetes
 - **Skills**: Web, Network
 - **Certificate**: AWS Certified Cloud Practitioner
 
@@ -16,5 +17,5 @@
 - AI Security
 - Cloud Computing
 - web programming
-- CISCO Packet Tracer
+- LLM
 
