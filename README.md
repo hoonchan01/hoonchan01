@@ -3,7 +3,7 @@
 ### 🎓
 - 🇰🇷Engineering of Information Communication in HUFS(2021~2027)
 - 🇯🇵kindai univ(2025)
-- 🇯🇵Data Scientist in Osaka(2027~)
+- 🇯🇵ML engineer in Osaka(2027~)
 
 ### 💡 Stack
 - **Languages**: Python, C, Bash, Golang
