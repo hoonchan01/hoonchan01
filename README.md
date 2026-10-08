@@ -35,10 +35,11 @@ Security-aware ML engineer building reliable AI systems — from model to cloud.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ### 🔭 Focus Areas
-- **LLM** — LLM 기반 애플리케이션 개발 및 최적화
-- **AI Security** — Prompt Injection, Adversarial Attack 등 AI 시스템 보안
-- **MLOps & Cloud** — 컨테이너 기반 모델 배포 및 운영
-- **Web Security** — XSS 등 웹 취약점 분석 및 대응 (TryHackMe 실습)
+- **LLM** — LLM-based application development and optimization
+- **AI Security** — Prompt Injection, Adversarial Attack 
+- **MLOps & Cloud** — Container-based model deployment and operations
+- **Web Security** — Analysis and response to web vulnerabilities such as XSS (TryHackMe exercises
+  
 
 ### 📫 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kangtaehoon3@gmail.com)
