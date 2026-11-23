@@ -8,9 +8,9 @@ Security-aware ML engineer building reliable AI systems — from model to cloud.
 ### 🎓 Education & Career
 | Period | Organization | Role |
 |---|---|---|
-| 2027 – | 🇯🇵 Osaka | ML Engineer |
+| 2027.4– | 🇯🇵 Osaka | ML Engineer |
 | 2025 | 🇯🇵 Kindai University | Exchange Student |
-| 2021 – 2027 | 🇰🇷 Hankuk University of Foreign Studies | B.E. Information & Communication Engineering |
+| 2021.3 – 2027.2 | 🇰🇷 Hankuk University of Foreign Studies | B.E. Information & Communication Engineering |
 
 ### 🛠 Tech Stack
 **Languages**  
